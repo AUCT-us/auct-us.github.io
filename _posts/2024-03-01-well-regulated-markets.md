@@ -2,14 +2,14 @@
 layout: post
 title:  "What Is Lost In Free Market Over-Regulation"
 subtitle:  "Experience introduces and build skills, but we regulate experience out of the reach of voters"
-date:   2025-03-01 4:30:00
+date:   2024-03-01 4:30:00
 categories: template
 ---
 
 
 # People fear what they do not know
 
-They SHOULD be afraid ... until they have developed some experience.
+Perhaps, they SHOULD be afraid ... until they have developed some experience, but they will rapidly enough.
 
 How do they get experience?
 
