@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "The Success and Failure Decentralized Governance Models"
+title:  "The Success and Failure OF Decentralized Governance Models"
 subtitle:  "What Have We Learned From Prioritizing Individual Autonomy, But Explore Liquid Democracy, Holacracy, and Sociocracy"
 date:   2024-01-01 4:30:00
 categories: template
 ---
 
 
-# Decentralized Governance Models
+# What Have We Learned
 
 ## Develop and implement decentralized governance models that prioritize individual autonomy, direct participation, and fluid decision-making processes.
 
