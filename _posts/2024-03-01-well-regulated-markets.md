@@ -1,16 +1,12 @@
 ---
 layout: post
-title:  "What Is Lost In Free Market Over-Regulation"
+title:  "Capital Markets And Economic Growth"
 subtitle:  "Experience introduces and build skills, but we regulate experience out of the reach of voters"
 date:   2024-03-01 4:30:00
 categories: template
 ---
 
 
-# People fear what they do not know
+# People are stiff-necked and stubborn
 
-Perhaps, they SHOULD be afraid ... until they have developed some experience, but they will rapidly enough.
-
-How do they get experience?
-
-It's sort of like learning to walk ... you cannot get any decent amount of experience unless you have applied lessons from small mistakes and you have build your stock of of experience ... you're gonna fail, but you have to start/learn and improve.
+By the time that humans have accumulated resources, they tend to become rather idea-averse. This might be a problem, because the world is changing and perhaps is changing faster, so the ideas drove the success of the capital markets and worked so well in the past may not work especially well in the future ... but the bright spot is that information economies waste much less capital and resources driving around aimlessly searching and drilling holes or digging for resources.
