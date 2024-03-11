@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "POWER does not give up power without power being VIOLENTLY taken from power"
+title:  "POWER never cedes POWER; it is violently TAKEN from POWER"
 subtitle:  "Political decisions not well enough BANGED OUT in the virtual realm"
 date:   2024-02-01 4:30:00
 categories: template
