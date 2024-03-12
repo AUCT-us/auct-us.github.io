@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Capital Markets And Economic Growth"
+title:  "Capital Markets And The Acceleration of Economic Growth"
 subtitle:  "Experience introduces and build skills, but we regulate experience out of the reach of voters"
 date:   2024-03-01 4:30:00
 categories: template
